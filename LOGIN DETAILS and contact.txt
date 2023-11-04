@@ -1,0 +1,23 @@
+	(= Database Name: inventorysystem =)
+
+	**++ Developed by Muhammad Sohail ++**
+
+	**Recommended PHP Version 5.6.3.0**
+
+
+	[Admin Login Details]
+
+	Username: sohilsagarm@gmail.com
+	Password: admin
+
+
+	[++ Special/Editor User Login Details ++]
+
+	Username: Editor@gmail.com
+	Password: special
+
+
+	[++ User(Employee) Login Details ++]
+
+	Username: employee@gmail.com
+	Password: employee 
